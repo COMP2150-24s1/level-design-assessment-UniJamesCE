@@ -40,7 +40,7 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1. Spikes
 
-![Place any alt text here](DocImages/Spikes — Storyboard FULL.png)
+![test](DocImages/Spikes — Storyboard FULL.png)
 I chose to introduce the first spike like I did because I wanted the first real obstacle to be as simple as possible, to most clearly convey the idea that the player will need to consider their own abilities/resources to progress through the level. I wanted to make sure a small ledge (that must be jumped over) also came just before the first spike, just to make SURE that the player first understands their ability to JUMP over obstacles. I also decided to include the small patch of spikes after the first singular one, to ensure the player understands that spikes will damage them from any angle and not just from the sides before proceeding (in case they didn’t already intuit that and jump over them).
 
 ### 2.2. Acid
